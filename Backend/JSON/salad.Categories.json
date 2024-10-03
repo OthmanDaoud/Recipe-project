@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "66dacde8d12b55222bb52ff6"
+  },
+  "name": "seafood salad",
+  "description": "A salad with various seafood ingredients."
+},
+{
+  "_id": {
+    "$oid": "66dacde8d12b55222bb52ff7"
+  },
+  "name": "pasta salad",
+  "description": "A salad that typically contains pasta as the main ingredient."
+},
+{
+  "_id": {
+    "$oid": "66dacde8d12b55222bb52ff8"
+  },
+  "name": "fruit salad",
+  "description": "A salad made primarily of various fresh fruits."
+},
+{
+  "_id": {
+    "$oid": "66dacde8d12b55222bb52ff9"
+  },
+  "name": "sweet salad",
+  "description": "A salad that is sweet in flavor, often including fruits or dessert-like ingredients."
+},
+{
+  "_id": {
+    "$oid": "66dacde8d12b55222bb52ffa"
+  },
+  "name": "chicken salad",
+  "description": "A salad with chicken as the main protein."
+},
+{
+  "_id": {
+    "$oid": "66dacde8d12b55222bb52ffb"
+  },
+  "name": "salad dressing",
+  "description": "A variety of sauces or dressings used to enhance the flavor of salads."
+}]

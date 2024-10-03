@@ -1,0 +1,109 @@
+[
+    {
+      "title": "Quinoa Salad",
+      "description": "A refreshing quinoa salad with vegetables and lemon dressing.",
+      "ingredients": [
+        { "name": "Quinoa", "quantity": "200", "unit": "grams" },
+        { "name": "Cucumber", "quantity": "1", "unit": "piece" },
+        { "name": "Bell Pepper", "quantity": "1", "unit": "piece" },
+        { "name": "Red Onion", "quantity": "0.5", "unit": "piece" },
+        { "name": "Lemon Juice", "quantity": "30", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Cook quinoa, chop vegetables, and mix with lemon juice.", "stepImage": "https://example.com/images/quinoa_salad_step1.jpg" }
+      ],
+      "cookingTime": 25,
+      "category": "66dacde8d12b55222bb52ff8",
+      "chef": "66d859aeff27549b02eb0978",
+      "photos": ["https://example.com/images/quinoa_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/quinoa_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["Gluten-Free", "Vegan"],
+      "cuisineType": "Mediterranean"
+    },
+    {
+      "title": "Caprese Salad",
+      "description": "A classic Italian salad with tomatoes, mozzarella, and basil.",
+      "ingredients": [
+        { "name": "Tomatoes", "quantity": "3", "unit": "pieces" },
+        { "name": "Mozzarella", "quantity": "200", "unit": "grams" },
+        { "name": "Fresh Basil", "quantity": "10", "unit": "leaves" },
+        { "name": "Balsamic Vinegar", "quantity": "30", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Slice tomatoes and mozzarella, arrange with basil leaves, and drizzle with balsamic vinegar.", "stepImage": "https://example.com/images/caprese_salad_step1.jpg" }
+      ],
+      "cookingTime": 10,
+      "category": "66dacde8d12b55222bb52ff7",
+      "chef": "66d9356d66396d73e500f7dc",
+      "photos": ["https://example.com/images/caprese_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/caprese_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["Vegetarian"],
+      "cuisineType": "Italian"
+    },
+    {
+      "title": "Caesar Salad",
+      "description": "A classic Caesar salad with romaine lettuce, croutons, and Caesar dressing.",
+      "ingredients": [
+        { "name": "Romaine Lettuce", "quantity": "200", "unit": "grams" },
+        { "name": "Croutons", "quantity": "50", "unit": "grams" },
+        { "name": "Caesar Dressing", "quantity": "50", "unit": "ml" },
+        { "name": "Parmesan Cheese", "quantity": "30", "unit": "grams" }
+      ],
+      "instructions": [
+        { "stepText": "Combine lettuce with croutons and Parmesan cheese, and dress with Caesar dressing.", "stepImage": "https://example.com/images/caesar_salad_step1.jpg" }
+      ],
+      "cookingTime": 10,
+      "category": "66dacde8d12b55222bb52ff9",
+      "chef": "66d9374166396d73e500f7e3",
+      "photos": ["https://example.com/images/caesar_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/caesar_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["Vegetarian"],
+      "cuisineType": "American"
+    },
+    {
+      "title": "Waldorf Salad",
+      "description": "A salad with apples, celery, walnuts, and mayonnaise.",
+      "ingredients": [
+        { "name": "Apples", "quantity": "2", "unit": "pieces" },
+        { "name": "Celery", "quantity": "2", "unit": "sticks" },
+        { "name": "Walnuts", "quantity": "50", "unit": "grams" },
+        { "name": "Mayonnaise", "quantity": "50", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Chop apples and celery, mix with walnuts and mayonnaise.", "stepImage": "https://example.com/images/waldorf_salad_step1.jpg" }
+      ],
+      "cookingTime": 15,
+      "category": "66dacde8d12b55222bb52ff6",
+      "chef": "66d9389e66396d73e500f7e9",
+      "photos": ["https://example.com/images/waldorf_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/waldorf_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["Gluten-Free"],
+      "cuisineType": "American"
+    },
+    {
+      "title": "Cobb Salad",
+      "description": "A hearty salad with chopped ingredients including chicken, bacon, and eggs.",
+      "ingredients": [
+        { "name": "Chicken Breast", "quantity": "200", "unit": "grams" },
+        { "name": "Bacon", "quantity": "100", "unit": "grams" },
+        { "name": "Boiled Eggs", "quantity": "2", "unit": "pieces" },
+        { "name": "Avocado", "quantity": "1", "unit": "piece" }
+      ],
+      "instructions": [
+        { "stepText": "Chop chicken, bacon, and eggs, and mix with avocado.", "stepImage": "https://example.com/images/cobb_salad_step1.jpg" }
+      ],
+      "cookingTime": 30,
+      "category": "66dacde8d12b55222bb52ff7",
+      "chef": "66d9392b66396d73e500f7ec",
+      "photos": ["https://example.com/images/cobb_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/cobb_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["High-Protein"],
+      "cuisineType": "American"
+    }
+  ]
+  

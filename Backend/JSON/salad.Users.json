@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "66d55807054b8450464c02b6"
+  },
+  "name": "John Doe",
+  "email": "johndoe@example.com",
+  "password": "$2b$10$somethinghashed",
+  "profilePicture": "/images/johndoe.jpg",
+  "chefDisplayPicture": null,
+  "role": "user",
+  "bio": "Cooking enthusiast and home chef.",
+  "savedRecipes": [],
+  "orderHistory": [],
+  "businessDetails": {},
+  "otp": null,
+  "otpExpiry": null,
+  "googleId": null,
+  "facebookId": null,
+  "isDeleted": false,
+  "isActivated": true,
+  "yearsOfExperience": 0,
+  "updatedAt": {
+    "$date": "2024-09-06T08:47:27.911Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d55807054b8450464c02b7"
+  },
+  "name": "Jane Smith",
+  "email": "janesmith@example.com",
+  "password": "$2b$10$somethinghashed",
+  "profilePicture": "https://i.pinimg.com/474x/94/af/c8/94afc8ac6bd3c36cb3b2c2b6550aa62a.jpg",
+  "chefDisplayPicture": "https://i.pinimg.com/236x/53/e2/df/53e2df9f7bfe202cc36b85122f991275.jpg",
+  "role": "chef",
+  "bio": "Professional chef with over 10 years of experience.",
+  "savedRecipes": [],
+  "orderHistory": [],
+  "businessDetails": {
+    "paymentInfo": "Visa **** 1234",
+    "address": "1234 Culinary Ave, Food City"
+  },
+  "otp": "123456",
+  "otpExpiry": "2024-09-07T10:00:00Z",
+  "googleId": null,
+  "facebookId": null,
+  "isDeleted": false,
+  "isActivated": true,
+  "yearsOfExperience": 12
+},
+{
+  "_id": {
+    "$oid": "66d55807054b8450464c02b8"
+  },
+  "name": "Linda Gomez",
+  "email": "lindagomez@example.com",
+  "password": "$2b$10$somethinghashed",
+  "profilePicture": "https://i.pinimg.com/236x/20/17/c5/2017c595fd1f64e9039e46299f007f91.jpg",
+  "chefDisplayPicture": "https://i.pinimg.com/236x/c5/90/e7/c590e7fe28af09912dc1f18594bebb37.jpg",
+  "role": "chef",
+  "bio": "Specializes in Mexican cuisine.",
+  "savedRecipes": [],
+  "orderHistory": [],
+  "businessDetails": {
+    "paymentInfo": "Mastercard **** 5678",
+    "address": "789 Taco St, Food City"
+  },
+  "otp": null,
+  "otpExpiry": null,
+  "googleId": null,
+  "facebookId": null,
+  "isDeleted": false,
+  "isActivated": true,
+  "yearsOfExperience": 8
+},
+{
+  "_id": {
+    "$oid": "66d55807054b8450464c02b9"
+  },
+  "name": "Ava Martinez",
+  "email": "avamartinez@example.com",
+  "password": "$2b$10$somethinghashed",
+  "profilePicture": null,
+  "chefDisplayPicture": "https://i.pinimg.com/236x/4a/6c/fb/4a6cfb522050c1443b47d3c8c748f98d.jpg",
+  "role": "chef",
+  "bio": "Cooking up Italian dishes.",
+  "savedRecipes": [],
+  "orderHistory": [],
+  "businessDetails": {
+    "paymentInfo": "Visa **** 4444",
+    "address": "456 Pasta Ln, Food City"
+  },
+  "otp": null,
+  "otpExpiry": null,
+  "googleId": null,
+  "facebookId": "fb_333444",
+  "isDeleted": false,
+  "isActivated": true,
+  "yearsOfExperience": 5
+},
+{
+  "_id": {
+    "$oid": "66d55807054b8450464c02ba"
+  },
+  "name": "Lucas King",
+  "email": "lucasking@example.com",
+  "password": "$2b$10$somethinghashed",
+  "profilePicture": "/images/lucasking.jpg",
+  "chefDisplayPicture": "https://i.pinimg.com/474x/00/44/da/0044daa23dcc6c9f8486f2e0ab204896.jpg",
+  "role": "chef",
+  "bio": "Baker with a focus on bread making.",
+  "savedRecipes": [],
+  "orderHistory": [],
+  "businessDetails": {
+    "paymentInfo": "Mastercard **** 2222",
+    "address": "789 Bread St, Food City"
+  },
+  "otp": "987654",
+  "otpExpiry": "2024-09-08T09:00:00Z",
+  "googleId": null,
+  "facebookId": null,
+  "isDeleted": false,
+  "isActivated": true,
+  "yearsOfExperience": 7
+},
+{
+  "_id": {
+    "$oid": "66d55807054b8450464c02bb"
+  },
+  "name": "Camille Styles",
+  "email": "jackharris@example.com",
+  "password": "$2b$10$somethinghashed",
+  "profilePicture": null,
+  "chefDisplayPicture": "https://i.pinimg.com/236x/84/05/15/84051539736423a317310fe455ecf284.jpg",
+  "role": "chef",
+  "bio": "Master BBQ chef.",
+  "savedRecipes": [],
+  "orderHistory": [],
+  "businessDetails": {
+    "paymentInfo": "Amex **** 9999",
+    "address": "987 Grill St, Food City"
+  },
+  "otp": "345678",
+  "otpExpiry": "2024-09-08T08:00:00Z",
+  "googleId": null,
+  "facebookId": null,
+  "isDeleted": false,
+  "isActivated": true,
+  "yearsOfExperience": 10
+},
+{
+  "_id": {
+    "$oid": "66dabed0cc2436f654e49fd3"
+  },
+  "name": "rami",
+  "email": "rami.ghazzawiabed@gmail.com",
+  "password": "$2b$10$qO8vIkF9iNpsRdFPMCj32OY9/0lSor0ThUfKTmw3O1Vf4ZTPFSHF2",
+  "role": "user",
+  "savedRecipes": [],
+  "orderHistory": [],
+  "isDeleted": false,
+  "isActivated": true,
+  "createdAt": {
+    "$date": "2024-09-06T08:35:28.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-06T08:35:57.490Z"
+  },
+  "__v": 0
+}]

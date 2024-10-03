@@ -1,0 +1,112 @@
+[
+    {
+      "title": "Shrimp and Avocado Salad",
+      "description": "A delicious and refreshing salad combining fresh shrimp and creamy avocado",
+      "ingredients": [
+        { "name": "Cooked shrimp", "quantity": "300", "unit": "grams" },
+        { "name": "Avocado", "quantity": "2", "unit": "pieces" },
+        { "name": "Lettuce", "quantity": "1", "unit": "head" },
+        { "name": "Cherry tomatoes", "quantity": "200", "unit": "grams" },
+        { "name": "Red onion", "quantity": "1", "unit": "small" },
+        { "name": "Lemon juice", "quantity": "2", "unit": "tablespoons" },
+        { "name": "Olive oil", "quantity": "3", "unit": "tablespoons" },
+        { "name": "Salt and pepper", "quantity": "1", "unit": "pinch" }
+      ],
+      "instructions": [
+        { "stepText": "Chop the lettuce, avocado, tomatoes, and onion.", "stepImage": "https://www.allrecipes.com/thmb/3Y7n3Xtwvr01VxF4pzCmx7hmOps=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1673947-f0f2460a62c341a1a35174edd73a3e97.jpg" },
+        { "stepText": "Mix the dressing ingredients: lemon juice, olive oil, salt, and pepper.", "stepImage": "https://www.allrecipes.com/thmb/O1D7YWzfssGhE3N7Dg_5QqsItX8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7500701-21064c0980014b929c0e46da7b95ba1b.jpg" },
+        { "stepText": "Add the shrimp to the vegetables and pour the dressing over them.", "stepImage": "https://www.allrecipes.com/thmb/FwmALiHzBvEWOU8CckLccMJP2HE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4525633-38b0f11eaef2465d89fef7749c4fc10e.jpg" },
+        { "stepText": "Gently toss the salad and serve chilled.", "stepImage": "https://www.allrecipes.com/thmb/2Ue_SkiOS73OVIIKGSr3ZOx7Uk0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4547457-ac0e46a1509643149ce2bb81fbeae512.jpg" }
+      ],
+      "cookingTime": 15,
+      "category": "66dacde8d12b55222bb52ff6",
+      "chef": "66d55807054b8450464c02b7",
+      "photos": ["https://www.allrecipes.com/thmb/KeF2K7x0p8Cj7O7UKk6pYEMyOXY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4548489-0f7989fba15a46d5b2f506d8621c909e.jpg"],
+      "dietaryRestrictions": ["Gluten-Free", "Low-Carb"],
+      "cuisineType": "Seafood",
+      "nutrition": {
+        "calories": "320 kcal",
+        "protein": "18g",
+        "totalFats": "24g",
+        "carbs": "12g"
+      },
+      "videoTutorialUrl": "https://www.allrecipes.com/recipe/14276/strawberry-spinach-salad-i/",
+      "isDeleted": false,
+      "servings": 4,
+      "isApproved": true
+    },
+    {
+      "title": "Greek Pasta Salad",
+      "description": "A refreshing pasta salad with Mediterranean flavors",
+      "ingredients": [
+        { "name": "Fusilli pasta", "quantity": "300", "unit": "grams" },
+        { "name": "Cucumber", "quantity": "1", "unit": "piece" },
+        { "name": "Cherry tomatoes", "quantity": "200", "unit": "grams" },
+        { "name": "Kalamata olives", "quantity": "100", "unit": "grams" },
+        { "name": "Feta cheese", "quantity": "150", "unit": "grams" },
+        { "name": "Red onion", "quantity": "1", "unit": "small" },
+        { "name": "Olive oil", "quantity": "4", "unit": "tablespoons" },
+        { "name": "Balsamic vinegar", "quantity": "2", "unit": "tablespoons" },
+        { "name": "Dried oregano", "quantity": "1", "unit": "teaspoon" }
+      ],
+      "instructions": [
+        { "stepText": "Cook the pasta according to instructions, drain, and cool.", "stepImage": "https://www.allrecipes.com/thmb/SoVVnoC9qeyfkf5S84tTM-NAOOk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15076-Pasta-Salad-mfs-Step-1-1653-a5c348a621fd47d5be93a60d537648db.jpg" },
+        { "stepText": "Chop the cucumber, tomatoes, onion, and olives.", "stepImage": "https://www.allrecipes.com/thmb/-M-TPCrUAplrZiMz7UNHcRU3kd4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15076-Pasta-Salad-mfs-Step-2-1654-62195642c3f24d92ad4cf29aeeb270b0.jpg" },
+        { "stepText": "Mix the pasta with the vegetables and cheese.", "stepImage": "https://www.allrecipes.com/thmb/xQPNEBJZa2-zw0PkgrJH9c4DCWY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15076-Pasta-Salad-mfs-Step-3-1655-eeea3d5f528847a08db6938a0c4f4acd.jpg" },
+        { "stepText": "Add olive oil, vinegar, and oregano, then toss well.", "stepImage": "https://www.allrecipes.com/thmb/yp4o93q909z4yiWr5tFLyYs8kOY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15076-Pasta-Salad-mfs-Step-4-1656-e7afe6f1cd2841089ba2183debc6d25b.jpg" }
+      ],
+      "cookingTime": 25,
+      "category": "66dacde8d12b55222bb52ff7",
+      "chef": "66d55807054b8450464c02b8",
+      "photos": ["https://www.allrecipes.com/thmb/uD8Nvvy8_d_6qjhRN0v_1SxXETY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/15076-Pasta-Salad-mfs-010-4x3-1-69a359771b95419e98caf45a46cdc9a8.jpg"],
+      "dietaryRestrictions": ["Vegetarian"],
+      "cuisineType": "Mediterranean",
+      "nutrition": {
+        "calories": "380 kcal",
+        "protein": "12g",
+        "totalFats": "18g",
+        "carbs": "45g"
+      },
+      "videoTutorialUrl": "https://www.allrecipes.com/recipe/14276/strawberry-spinach-salad-i/",
+      "isDeleted": false,
+      "servings": 6,
+      "isApproved": true
+    },
+    {
+      "title": "Tropical Fruit Salad",
+      "description": "A refreshing and vitamin-packed fruit salad",
+      "ingredients": [
+        { "name": "Pineapple", "quantity": "1", "unit": "cup, chopped" },
+        { "name": "Mango", "quantity": "1", "unit": "piece" },
+        { "name": "Kiwi", "quantity": "2", "unit": "pieces" },
+        { "name": "Orange", "quantity": "2", "unit": "pieces" },
+        { "name": "Red grapes", "quantity": "1", "unit": "cup" },
+        { "name": "Shredded coconut", "quantity": "2", "unit": "tablespoons" },
+        { "name": "Lemon juice", "quantity": "2", "unit": "tablespoons" },
+        { "name": "Honey", "quantity": "1", "unit": "tablespoon" }
+      ],
+      "instructions": [
+        { "stepText": "Chop all fruits into bite-sized pieces.", "stepImage": "https://www.allrecipes.com/thmb/MLrZnG_LbplzjKg-2m74vP5cy2Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2127239-ffe5f2176d93472eb2e6014571a53e62.jpg" },
+        { "stepText": "Mix honey and lemon juice to create a dressing.", "stepImage": "https://www.allrecipes.com/thmb/gBNX8euL8nfw9zFjCf7gHzpM23g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5634007-honey-lemon-dressing.jpg" },
+        { "stepText": "Toss the fruits together and drizzle the honey-lemon dressing over them.", "stepImage": "https://www.allrecipes.com/thmb/V5bms2AqWf4WODGXp7J9tuwTOog=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical_fruit_salad.jpg" },
+        { "stepText": "Top with shredded coconut and serve chilled.", "stepImage": "https://www.allrecipes.com/thmb/h1a5ViFaquGApJ4EzOvfRFHT5cc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fruit-salad.jpg" }
+      ],
+      "cookingTime": 10,
+      "category": "66dacde8d12b55222bb52ff8",
+      "chef": "66d55807054b8450464c02b9",
+      "photos": ["https://www.allrecipes.com/thmb/VyXt9we56GRd4Vbe9H-42URGRXI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3624172-75ef25f72883449a849aeb7e0e9dd25c.jpg"],
+      "dietaryRestrictions": ["Vegan", "Gluten-Free"],
+      "cuisineType": "Tropical",
+      "nutrition": {
+        "calories": "200 kcal",
+        "protein": "2g",
+        "totalFats": "4g",
+        "carbs": "45g"
+      },
+      "videoTutorialUrl": "https://www.allrecipes.com/recipe/14276/strawberry-spinach-salad-i/",
+      "isDeleted": false,
+      "servings": 4,
+      "isApproved": true
+    }
+  ]
+  

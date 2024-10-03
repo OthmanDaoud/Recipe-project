@@ -1,0 +1,351 @@
+[
+    {
+      "title": "Shrimp and Avocado Salad",
+      "description": "A delicious and refreshing salad combining fresh shrimp and creamy avocado",
+      "ingredients": [
+        { "name": "Cooked shrimp", "quantity": "300", "unit": "grams" },
+        { "name": "Avocado", "quantity": "2", "unit": "pieces" },
+        { "name": "Lettuce", "quantity": "1", "unit": "head" },
+        { "name": "Cherry tomatoes", "quantity": "200", "unit": "grams" },
+        { "name": "Red onion", "quantity": "1", "unit": "small" },
+        { "name": "Lemon juice", "quantity": "2", "unit": "tablespoons" },
+        { "name": "Olive oil", "quantity": "3", "unit": "tablespoons" },
+        { "name": "Salt and pepper", "quantity": "1", "unit": "pinch" }
+      ],
+      "instructions": [
+        { "stepText": "Chop the lettuce, avocado, tomatoes, and onion.", "stepImage": "https://example.com/images/shrimp_avocado_salad_step1.jpg" },
+        { "stepText": "Mix the dressing ingredients: lemon juice, olive oil, salt, and pepper.", "stepImage": "https://example.com/images/shrimp_avocado_salad_step2.jpg" },
+        { "stepText": "Add the shrimp to the vegetables and pour the dressing over them.", "stepImage": "https://example.com/images/shrimp_avocado_salad_step3.jpg" },
+        { "stepText": "Gently toss the salad and serve chilled.", "stepImage": "https://example.com/images/shrimp_avocado_salad_step4.jpg" }
+      ],
+      "cookingTime": 15,
+      "category": "66dacde8d12b55222bb52ff6",
+      "chef": "66d55807054b8450464c02b7",
+      "photos": ["https://example.com/images/shrimp_avocado_salad_final.jpg"],
+      "dietaryRestrictions": ["Gluten-Free", "Low-Carb"],
+      "cuisineType": "Seafood",
+      "nutrition": {
+        "calories": "320 kcal",
+        "protein": "18g",
+        "totalFats": "24g",
+        "carbs": "12g"
+      },
+      "videoTutorialUrl": "https://www.example.com/videos/shrimp-avocado-salad-tutorial",
+      "isDeleted": false,
+      "servings": 4,
+      "isApproved": true
+    },
+    {
+      "title": "Greek Pasta Salad",
+      "description": "A refreshing pasta salad with Mediterranean flavors",
+      "ingredients": [
+        { "name": "Fusilli pasta", "quantity": "300", "unit": "grams" },
+        { "name": "Cucumber", "quantity": "1", "unit": "piece" },
+        { "name": "Cherry tomatoes", "quantity": "200", "unit": "grams" },
+        { "name": "Kalamata olives", "quantity": "100", "unit": "grams" },
+        { "name": "Feta cheese", "quantity": "150", "unit": "grams" },
+        { "name": "Red onion", "quantity": "1", "unit": "small" },
+        { "name": "Olive oil", "quantity": "4", "unit": "tablespoons" },
+        { "name": "Balsamic vinegar", "quantity": "2", "unit": "tablespoons" },
+        { "name": "Dried oregano", "quantity": "1", "unit": "teaspoon" }
+      ],
+      "instructions": [
+        { "stepText": "Cook the pasta according to instructions, drain, and cool.", "stepImage": "https://example.com/images/greek_pasta_salad_step1.jpg" },
+        { "stepText": "Chop the cucumber, tomatoes, onion, and olives.", "stepImage": "https://example.com/images/greek_pasta_salad_step2.jpg" },
+        { "stepText": "Mix the pasta with the vegetables and cheese.", "stepImage": "https://example.com/images/greek_pasta_salad_step3.jpg" },
+        { "stepText": "Add olive oil, vinegar, and oregano, then toss well.", "stepImage": "https://example.com/images/greek_pasta_salad_step4.jpg" }
+      ],
+      "cookingTime": 25,
+      "category": "66dacde8d12b55222bb52ff7",
+      "chef": "66d55807054b8450464c02b8",
+      "photos": ["https://example.com/images/greek_pasta_salad_final.jpg"],
+      "dietaryRestrictions": ["Vegetarian"],
+      "cuisineType": "Mediterranean",
+      "nutrition": {
+        "calories": "380 kcal",
+        "protein": "12g",
+        "totalFats": "18g",
+        "carbs": "45g"
+      },
+      "videoTutorialUrl": "https://www.example.com/videos/greek-pasta-salad-tutorial",
+      "isDeleted": false,
+      "servings": 6,
+      "isApproved": true
+    },
+    {
+      "title": "Tropical Fruit Salad",
+      "description": "A refreshing and vitamin-packed fruit salad",
+      "ingredients": [
+        { "name": "Pineapple", "quantity": "1", "unit": "cup, chopped" },
+        { "name": "Mango", "quantity": "1", "unit": "piece" },
+        { "name": "Kiwi", "quantity": "2", "unit": "pieces" },
+        { "name": "Orange", "quantity": "2", "unit": "pieces" },
+        { "name": "Red grapes", "quantity": "1", "unit": "cup" },
+        { "name": "Shredded coconut", "quantity": "2", "unit": "tablespoons" },
+        { "name": "Lemon juice", "quantity": "2", "unit": "tablespoons" },
+        { "name": "Honey", "quantity": "1", "unit": "tablespoon" }
+      ],
+      "instructions": [
+        { "stepText": "Peel and chop the pineapple, mango, kiwi, and oranges.", "stepImage": "https://example.com/images/tropical_fruit_salad_step1.jpg" },
+        { "stepText": "Place all chopped fruits in a large bowl.", "stepImage": "https://example.com/images/tropical_fruit_salad_step2.jpg" },
+        { "stepText": "Add grapes and shredded coconut.", "stepImage": "https://example.com/images/tropical_fruit_salad_step3.jpg" },
+        { "stepText": "Mix lemon juice with honey and add to the salad.", "stepImage": "https://example.com/images/tropical_fruit_salad_step4.jpg" },
+        { "stepText": "Gently toss and serve chilled.", "stepImage": "https://example.com/images/tropical_fruit_salad_step5.jpg" }
+      ],
+      "cookingTime": 20,
+      "category": "66dacde8d12b55222bb52ff8",
+      "chef": "66d55807054b8450464c02b9",
+      "photos": ["https://example.com/images/tropical_fruit_salad_final.jpg"],
+      "dietaryRestrictions": ["Vegan", "Gluten-Free"],
+      "cuisineType": "Tropical",
+      "nutrition": {
+        "calories": "180 kcal",
+        "protein": "2g",
+        "totalFats": "1g",
+        "carbs": "45g"
+      },
+      "videoTutorialUrl": "https://www.example.com/videos/tropical-fruit-salad-tutorial",
+      "isDeleted": false,
+      "servings": 4,
+      "isApproved": true
+    },
+    {
+      "title": "Sweet Berry Salad with Honey Dressing",
+      "description": "A delightful sweet salad combining fresh berries and a honey-lime dressing",
+      "ingredients": [
+        { "name": "Strawberries", "quantity": "200", "unit": "grams" },
+        { "name": "Blueberries", "quantity": "150", "unit": "grams" },
+        { "name": "Raspberries", "quantity": "150", "unit": "grams" },
+        { "name": "Blackberries", "quantity": "100", "unit": "grams" },
+        { "name": "Baby spinach", "quantity": "100", "unit": "grams" },
+        { "name": "Feta cheese", "quantity": "50", "unit": "grams" },
+        { "name": "Sliced almonds", "quantity": "30", "unit": "grams" },
+        { "name": "Honey", "quantity": "2", "unit": "tablespoons" },
+        { "name": "Lime juice", "quantity": "1", "unit": "tablespoon" },
+        { "name": "Mint leaves", "quantity": "10", "unit": "pieces" }
+      ],
+      "instructions": [
+        { "stepText": "Wash and prepare all berries.", "stepImage": "https://example.com/images/sweet_berry_salad_step1.jpg" },
+        { "stepText": "In a large bowl, combine spinach and berries.", "stepImage": "https://example.com/images/sweet_berry_salad_step2.jpg" },
+        { "stepText": "Crumble feta cheese over the salad.", "stepImage": "https://example.com/images/sweet_berry_salad_step3.jpg" },
+        { "stepText": "Mix honey and lime juice for the dressing.", "stepImage": "https://example.com/images/sweet_berry_salad_step4.jpg" },
+        { "stepText": "Drizzle dressing, add almonds and mint, then serve.", "stepImage": "https://example.com/images/sweet_berry_salad_step5.jpg" }
+      ],
+      "cookingTime": 15,
+      "category": "66dacde8d12b55222bb52ff9",
+      "chef": "66d55807054b8450464c02ba",
+      "photos": ["https://example.com/images/sweet_berry_salad_final.jpg"],
+      "dietaryRestrictions": ["Gluten-Free", "Vegetarian"],
+      "cuisineType": "Contemporary",
+      "nutrition": {
+        "calories": "220 kcal",
+        "protein": "5g",
+        "totalFats": "8g",
+        "carbs": "35g"
+      },
+      "videoTutorialUrl": "https://www.example.com/videos/sweet-berry-salad-tutorial",
+      "isDeleted": false,
+      "servings": 4,
+      "isApproved": true
+    },
+    {
+      "title": "Grilled Chicken Caesar Salad",
+      "description": "A classic chicken salad with a homemade Caesar dressing",
+      "ingredients": [
+        { "name": "Chicken breast", "quantity": "400", "unit": "grams" },
+        { "name": "Romaine lettuce", "quantity": "1", "unit": "head" },
+        { "name": "Parmesan cheese", "quantity": "50", "unit": "grams" },
+        { "name": "Croutons", "quantity": "100", "unit": "grams" },
+        { "name": "Olive oil", "quantity": "2", "unit": "tablespoons" },
+        { "name": "Lemon juice", "quantity": "2", "unit": "tablespoons" },
+        { "name": "Dijon mustard", "quantity": "1", "unit": "teaspoon" },
+        { "name": "Worcestershire sauce", "quantity": "1", "unit": "teaspoon" },
+        { "name": "Garlic", "quantity": "1", "unit": "clove" },
+        { "name": "Salt and pepper", "quantity": "1", "unit": "pinch" }
+      ],
+      "instructions": [
+        { "stepText": "Season and grill the chicken until cooked through.", "stepImage": "https://example.com/images/chicken_caesar_salad_step1.jpg" },
+        { "stepText": "Chop the lettuce and slice the grilled chicken.", "stepImage": "https://example.com/images/chicken_caesar_salad_step2.jpg" },
+        { "stepText": "Mix dressing ingredients: olive oil, lemon juice, mustard, Worcestershire sauce, minced garlic, salt, and pepper.", "stepImage": "https://example.com/images/chicken_caesar_salad_step3.jpg" },
+        { "stepText": "Toss lettuce with dressing, add chicken and croutons.", "stepImage": "https://example.com/images/chicken_caesar_salad_step4.jpg" },
+        { "stepText": "Top with shaved Parmesan and serve.", "stepImage": "https://example.com/images/chicken_caesar_salad_step5.jpg" }
+      ],
+      "cookingTime": 30,
+      "category": "66dacde8d12b55222bb52ffa",
+      "chef": "66d55807054b8450464c02bb",
+      "photos": ["https://example.com/images/chicken_caesar_salad_final.jpg"],
+      "dietaryRestrictions": ["Nut-Free"],
+      "cuisineType": "American",
+      "nutrition": {
+        "calories": "420 kcal",
+        "protein": "35g",
+        "totalFats": "25g",
+        "carbs": "15g"
+      },
+      "videoTutorialUrl": "https://www.example.com/videos/chicken-caesar-salad-tutorial",
+      "isDeleted": false,
+      "servings": 4,
+      "isApproved": true
+    },
+        {
+          "title": "Mediterranean Quinoa Salad",
+          "description": "A protein-packed salad with Mediterranean flavors and quinoa as the base",
+          "ingredients": [
+            { "name": "Quinoa", "quantity": "200", "unit": "grams" },
+            { "name": "Cherry tomatoes", "quantity": "200", "unit": "grams" },
+            { "name": "Cucumber", "quantity": "1", "unit": "medium" },
+            { "name": "Red onion", "quantity": "1", "unit": "small" },
+            { "name": "Kalamata olives", "quantity": "50", "unit": "grams" },
+            { "name": "Feta cheese", "quantity": "100", "unit": "grams" },
+            { "name": "Fresh parsley", "quantity": "1/4", "unit": "cup" },
+            { "name": "Lemon juice", "quantity": "2", "unit": "tablespoons" },
+            { "name": "Extra virgin olive oil", "quantity": "3", "unit": "tablespoons" },
+            { "name": "Dried oregano", "quantity": "1", "unit": "teaspoon" }
+          ],
+          "instructions": [
+            { "stepText": "Cook quinoa according to package instructions and let it cool.", "stepImage": "https://example.com/images/quinoa_salad_step1.jpg" },
+            { "stepText": "Chop tomatoes, cucumber, red onion, and parsley.", "stepImage": "https://example.com/images/quinoa_salad_step2.jpg" },
+            { "stepText": "Mix cooled quinoa with chopped vegetables and olives.", "stepImage": "https://example.com/images/quinoa_salad_step3.jpg" },
+            { "stepText": "Whisk together lemon juice, olive oil, and oregano for dressing.", "stepImage": "https://example.com/images/quinoa_salad_step4.jpg" },
+            { "stepText": "Add dressing to salad, toss, then top with crumbled feta.", "stepImage": "https://example.com/images/quinoa_salad_step5.jpg" }
+          ],
+          "cookingTime": 25,
+          "category": "66dacde8d12b55222bb52ff7",
+          "chef": "66d55807054b8450464c02b7",
+          "photos": ["https://example.com/images/mediterranean_quinoa_salad_final.jpg"],
+          "dietaryRestrictions": ["Gluten-Free", "Vegetarian"],
+          "cuisineType": "Mediterranean",
+          "nutrition": {
+            "calories": "310 kcal",
+            "protein": "12g",
+            "totalFats": "18g",
+            "carbs": "32g"
+          },
+          "videoTutorialUrl": "https://www.example.com/videos/mediterranean-quinoa-salad-tutorial",
+          "isDeleted": false,
+          "servings": 4,
+          "isApproved": true
+        },
+        {
+          "title": "Waldorf Salad",
+          "description": "A classic sweet and crunchy salad with apples, celery, and walnuts",
+          "ingredients": [
+            { "name": "Red apples", "quantity": "2", "unit": "medium" },
+            { "name": "Celery", "quantity": "2", "unit": "stalks" },
+            { "name": "Walnuts", "quantity": "1/2", "unit": "cup" },
+            { "name": "Red grapes", "quantity": "1", "unit": "cup" },
+            { "name": "Mayonnaise", "quantity": "1/4", "unit": "cup" },
+            { "name": "Greek yogurt", "quantity": "1/4", "unit": "cup" },
+            { "name": "Lemon juice", "quantity": "1", "unit": "tablespoon" },
+            { "name": "Honey", "quantity": "1", "unit": "tablespoon" },
+            { "name": "Salt", "quantity": "1/4", "unit": "teaspoon" },
+            { "name": "Lettuce leaves", "quantity": "4", "unit": "leaves" }
+          ],
+          "instructions": [
+            { "stepText": "Core and chop apples, slice celery, and halve grapes.", "stepImage": "https://example.com/images/waldorf_salad_step1.jpg" },
+            { "stepText": "Toast walnuts in a dry pan until fragrant, then chop roughly.", "stepImage": "https://example.com/images/waldorf_salad_step2.jpg" },
+            { "stepText": "Mix mayonnaise, yogurt, lemon juice, honey, and salt for dressing.", "stepImage": "https://example.com/images/waldorf_salad_step3.jpg" },
+            { "stepText": "Combine apples, celery, grapes, and walnuts in a bowl.", "stepImage": "https://example.com/images/waldorf_salad_step4.jpg" },
+            { "stepText": "Add dressing and toss. Serve on lettuce leaves.", "stepImage": "https://example.com/images/waldorf_salad_step5.jpg" }
+          ],
+          "cookingTime": 20,
+          "category": "66dacde8d12b55222bb52ff9",
+          "chef": "66d55807054b8450464c02b8",
+          "photos": ["https://example.com/images/waldorf_salad_final.jpg"],
+          "dietaryRestrictions": ["Vegetarian"],
+          "cuisineType": "American",
+          "nutrition": {
+            "calories": "280 kcal",
+            "protein": "5g",
+            "totalFats": "22g",
+            "carbs": "22g"
+          },
+          "videoTutorialUrl": "https://www.example.com/videos/waldorf-salad-tutorial",
+          "isDeleted": false,
+          "servings": 4,
+          "isApproved": true
+        },
+        {
+          "title": "Creamy Avocado Dressing",
+          "description": "A rich and tangy avocado-based dressing perfect for any salad",
+          "ingredients": [
+            { "name": "Ripe avocado", "quantity": "1", "unit": "large" },
+            { "name": "Greek yogurt", "quantity": "1/4", "unit": "cup" },
+            { "name": "Lime juice", "quantity": "2", "unit": "tablespoons" },
+            { "name": "Olive oil", "quantity": "2", "unit": "tablespoons" },
+            { "name": "Fresh cilantro", "quantity": "1/4", "unit": "cup" },
+            { "name": "Garlic", "quantity": "1", "unit": "clove" },
+            { "name": "Honey", "quantity": "1", "unit": "teaspoon" },
+            { "name": "Salt", "quantity": "1/4", "unit": "teaspoon" },
+            { "name": "Black pepper", "quantity": "1/8", "unit": "teaspoon" },
+            { "name": "Water", "quantity": "2", "unit": "tablespoons" }
+          ],
+          "instructions": [
+            { "stepText": "Cut avocado in half, remove pit, and scoop out flesh.", "stepImage": "https://example.com/images/avocado_dressing_step1.jpg" },
+            { "stepText": "Add avocado and all other ingredients to a blender.", "stepImage": "https://example.com/images/avocado_dressing_step2.jpg" },
+            { "stepText": "Blend until smooth, adding water as needed for consistency.", "stepImage": "https://example.com/images/avocado_dressing_step3.jpg" },
+            { "stepText": "Taste and adjust seasoning if necessary.", "stepImage": "https://example.com/images/avocado_dressing_step4.jpg" },
+            { "stepText": "Transfer to a jar or bottle and refrigerate until use.", "stepImage": "https://example.com/images/avocado_dressing_step5.jpg" }
+          ],
+          "cookingTime": 10,
+          "category": "66dacde8d12b55222bb52ffb",
+          "chef": "66d55807054b8450464c02b9",
+          "photos": ["https://example.com/images/creamy_avocado_dressing_final.jpg"],
+          "dietaryRestrictions": ["Gluten-Free", "Vegetarian"],
+          "cuisineType": "Fusion",
+          "nutrition": {
+            "calories": "120 kcal",
+            "protein": "2g",
+            "totalFats": "11g",
+            "carbs": "5g"
+          },
+          "videoTutorialUrl": "https://www.example.com/videos/creamy-avocado-dressing-tutorial",
+          "isDeleted": false,
+          "servings": 6,
+          "isApproved": true
+        },
+            {
+              "title": "Superfood Kale and Quinoa Salad",
+              "description": "A nutrient-packed vegan salad with kale, quinoa, and a variety of superfoods",
+              "ingredients": [
+                { "name": "Kale", "quantity": "200", "unit": "grams" },
+                { "name": "Quinoa", "quantity": "100", "unit": "grams" },
+                { "name": "Pomegranate seeds", "quantity": "1/2", "unit": "cup" },
+                { "name": "Blueberries", "quantity": "1/2", "unit": "cup" },
+                { "name": "Pumpkin seeds", "quantity": "1/4", "unit": "cup" },
+                { "name": "Goji berries", "quantity": "1/4", "unit": "cup" },
+                { "name": "Avocado", "quantity": "1", "unit": "medium" },
+                { "name": "Lemon juice", "quantity": "2", "unit": "tablespoons" },
+                { "name": "Extra virgin olive oil", "quantity": "2", "unit": "tablespoons" },
+                { "name": "Maple syrup", "quantity": "1", "unit": "tablespoon" },
+                { "name": "Dijon mustard", "quantity": "1", "unit": "teaspoon" },
+                { "name": "Salt", "quantity": "1/4", "unit": "teaspoon" },
+                { "name": "Black pepper", "quantity": "1/8", "unit": "teaspoon" }
+              ],
+              "instructions": [
+                { "stepText": "Cook quinoa according to package instructions and let it cool.", "stepImage": "https://example.com/images/superfood_salad_step1.jpg" },
+                { "stepText": "Wash and chop kale, massaging it with a bit of olive oil and salt.", "stepImage": "https://example.com/images/superfood_salad_step2.jpg" },
+                { "stepText": "In a large bowl, combine cooled quinoa, massaged kale, pomegranate seeds, blueberries, pumpkin seeds, and goji berries.", "stepImage": "https://example.com/images/superfood_salad_step3.jpg" },
+                { "stepText": "In a small bowl, whisk together lemon juice, olive oil, maple syrup, Dijon mustard, salt, and pepper to make the dressing.", "stepImage": "https://example.com/images/superfood_salad_step4.jpg" },
+                { "stepText": "Pour the dressing over the salad and toss gently to combine.", "stepImage": "https://example.com/images/superfood_salad_step5.jpg" },
+                { "stepText": "Dice the avocado and add it to the salad just before serving.", "stepImage": "https://example.com/images/superfood_salad_step6.jpg" }
+              ],
+              "cookingTime": 30,
+              "category": "66dacde8d12b55222bb52ff7",
+              "chef": "66d55807054b8450464c02ba",
+              "photos": ["https://example.com/images/superfood_kale_quinoa_salad_final.jpg"],
+              "dietaryRestrictions": ["Vegan", "Gluten-Free", "Dairy-Free"],
+              "cuisineType": "Health Food",
+              "nutrition": {
+                "calories": "350 kcal",
+                "protein": "10g",
+                "totalFats": "22g",
+                "carbs": "35g"
+              },
+              "videoTutorialUrl": "https://www.example.com/videos/superfood-kale-quinoa-salad-tutorial",
+              "isDeleted": false,
+              "servings": 4,
+              "isApproved": true
+            }
+          ]
+      

@@ -1,0 +1,218 @@
+[
+  {
+    "_id": {
+      "$oid": "66dacf98d12b55222bb53002"
+    },
+    "name": "Seafood Delight Salad",
+    "description": "A fresh seafood salad with shrimp, crab, and scallops, served with a light lemon dressing.",
+    "price": 4.5,
+    "photos": ["url_to_photo1.jpg"],
+    "availableQuantity": 20,
+    "category": {
+      "$oid": "66dacde8d12b55222bb52ff6"
+    },
+    "chef": {
+      "$oid": "66d55807054b8450464c02b7"
+    },
+    "dietaryRestrictions": ["gluten-free"],
+    "cuisineType": "Mediterranean",
+    "nutrition": {
+      "calories": "350",
+      "protein": "25g",
+      "totalFats": "10g",
+      "carbs": "30g"
+    },
+    "isDeleted": false,
+    "servings": 1,
+    "isApproved": true
+  },
+  {
+    "_id": {
+      "$oid": "66dacf98d12b55222bb53003"
+    },
+    "name": "Classic Pasta Salad",
+    "description": "A traditional pasta salad with cherry tomatoes, cucumbers, and olives, dressed with Italian vinaigrette.",
+    "price": 3,
+    "photos": ["url_to_photo2.jpg"],
+    "availableQuantity": 15,
+    "category": {
+      "$oid": "66dacde8d12b55222bb52ff7"
+    },
+    "chef": {
+      "$oid": "66d55807054b8450464c02b7"
+    },
+    "dietaryRestrictions": ["vegetarian"],
+    "cuisineType": "Italian",
+    "nutrition": {
+      "calories": "400",
+      "protein": "12g",
+      "totalFats": "14g",
+      "carbs": "50g"
+    },
+    "isDeleted": false,
+    "servings": 1,
+    "isApproved": true
+  },
+  {
+    "_id": {
+      "$oid": "66dacf98d12b55222bb53004"
+    },
+    "name": "Spicy Shrimp Salad",
+    "description": "A zesty salad with spicy shrimp, avocado, and mixed greens, served with a spicy chipotle dressing.",
+    "price": 5,
+    "photos": ["url_to_photo3.jpg"],
+    "availableQuantity": 10,
+    "category": {
+      "$oid": "66dacde8d12b55222bb52ff6"
+    },
+    "chef": {
+      "$oid": "66d55807054b8450464c02b7"
+    },
+    "dietaryRestrictions": ["dairy-free"],
+    "cuisineType": "Southwestern",
+    "nutrition": {
+      "calories": "380",
+      "protein": "28g",
+      "totalFats": "15g",
+      "carbs": "25g"
+    },
+    "isDeleted": false,
+    "servings": 1,
+    "isApproved": true
+  },
+  {
+    "_id": {
+      "$oid": "66dacf98d12b55222bb53005"
+    },
+    "name": "Mediterranean Chickpea Salad",
+    "description": "A hearty salad with chickpeas, feta cheese, cucumbers, and tomatoes, tossed in a tangy lemon dressing.",
+    "price": 2.5,
+    "photos": ["url_to_photo4.jpg"],
+    "availableQuantity": 18,
+    "category": {
+      "$oid": "66dacde8d12b55222bb52ff7"
+    },
+    "chef": {
+      "$oid": "66d55807054b8450464c02b7"
+    },
+    "dietaryRestrictions": ["vegan"],
+    "cuisineType": "Mediterranean",
+    "nutrition": {
+      "calories": "330",
+      "protein": "15g",
+      "totalFats": "12g",
+      "carbs": "45g"
+    },
+    "isDeleted": false,
+    "servings": 1,
+    "isApproved": true
+  },
+  {
+    "_id": {
+      "$oid": "66dacf98d12b55222bb53006"
+    },
+    "name": "Caesar Salad",
+    "description": "A classic Caesar salad with crisp romaine lettuce, Parmesan cheese, croutons, and Caesar dressing.",
+    "price": 3.5,
+    "photos": ["url_to_photo5.jpg"],
+    "availableQuantity": 25,
+    "category": {
+      "$oid": "66dacde8d12b55222bb52ff7"
+    },
+    "chef": {
+      "$oid": "66d55807054b8450464c02b7"
+    },
+    "dietaryRestrictions": ["contains dairy"],
+    "cuisineType": "American",
+    "nutrition": {
+      "calories": "400",
+      "protein": "10g",
+      "totalFats": "20g",
+      "carbs": "35g"
+    },
+    "isDeleted": false,
+    "servings": 1,
+    "isApproved": true
+  },
+  {
+    "_id": {
+      "$oid": "66dacf98d12b55222bb53007"
+    },
+    "name": "Caesar Salad",
+    "description": "A classic Caesar salad with crisp romaine lettuce, Parmesan cheese, croutons, and Caesar dressing.",
+    "price": 3.5,
+    "photos": ["url_to_photo5.jpg"],
+    "availableQuantity": 25,
+    "category": {
+      "$oid": "66dacde8d12b55222bb52ff7"
+    },
+    "chef": {
+      "$oid": "66d55807054b8450464c02b8"
+    },
+    "dietaryRestrictions": ["contains dairy"],
+    "cuisineType": "American",
+    "nutrition": {
+      "calories": "400",
+      "protein": "10g",
+      "totalFats": "20g",
+      "carbs": "35g"
+    },
+    "isDeleted": false,
+    "servings": 1,
+    "isApproved": true
+  },
+  {
+    "_id": {
+      "$oid": "66dacf98d12b55222bb53008"
+    },
+    "name": "Caesar Salad",
+    "description": "A classic Caesar salad with crisp romaine lettuce, Parmesan cheese, croutons, and Caesar dressing.",
+    "price": 3.5,
+    "photos": ["url_to_photo5.jpg"],
+    "availableQuantity": 25,
+    "category": {
+      "$oid": "66dacde8d12b55222bb52ff7"
+    },
+    "chef": {
+      "$oid": "66d55807054b8450464c02b8"
+    },
+    "dietaryRestrictions": ["contains dairy"],
+    "cuisineType": "American",
+    "nutrition": {
+      "calories": "400",
+      "protein": "10g",
+      "totalFats": "20g",
+      "carbs": "35g"
+    },
+    "isDeleted": false,
+    "servings": 1,
+    "isApproved": true
+  },
+  {
+    "_id": {
+      "$oid": "66dacf98d12b55222bb53009"
+    },
+    "name": "Caesar Salad",
+    "description": "A classic Caesar salad with crisp romaine lettuce, Parmesan cheese, croutons, and Caesar dressing.",
+    "price": 3.5,
+    "photos": ["url_to_photo5.jpg"],
+    "availableQuantity": 25,
+    "category": {
+      "$oid": "66dacde8d12b55222bb52ff7"
+    },
+    "chef": {
+      "$oid": "66d55807054b8450464c02b8"
+    },
+    "dietaryRestrictions": ["contains dairy"],
+    "cuisineType": "American",
+    "nutrition": {
+      "calories": "400",
+      "protein": "10g",
+      "totalFats": "20g",
+      "carbs": "35g"
+    },
+    "isDeleted": false,
+    "servings": 1,
+    "isApproved": true
+  }
+]

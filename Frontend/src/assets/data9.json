@@ -1,0 +1,177 @@
+[
+    {
+      "title": "Chicken Tikka Masala",
+      "description": "A flavorful Indian dish made with marinated grilled chicken in a creamy spiced curry sauce.",
+      "ingredients": [
+        { "name": "Chicken Breast", "quantity": "500", "unit": "grams" },
+        { "name": "Yogurt", "quantity": "1", "unit": "cup" },
+        { "name": "Ginger", "quantity": "1", "unit": "tbsp" },
+        { "name": "Garlic", "quantity": "1", "unit": "tbsp" },
+        { "name": "Garam Masala", "quantity": "2", "unit": "tbsp" },
+        { "name": "Tomato Puree", "quantity": "1", "unit": "cup" },
+        { "name": "Cream", "quantity": "1/2", "unit": "cup" }
+      ],
+      "instructions": [
+        {
+          "stepText": "Marinate the chicken in yogurt, ginger, garlic, and spices.",
+          "stepImage": "https://example.com/chicken-tikka-masala-step1.jpg"
+        },
+        {
+          "stepText": "Grill the marinated chicken until fully cooked.",
+          "stepImage": "https://example.com/chicken-tikka-masala-step2.jpg"
+        },
+        {
+          "stepText": "Cook the tomato puree and add the grilled chicken.",
+          "stepImage": "https://example.com/chicken-tikka-masala-step3.jpg"
+        },
+        {
+          "stepText": "Add cream and let it simmer for 10 minutes.",
+          "stepImage": "https://example.com/chicken-tikka-masala-step4.jpg"
+        }
+      ],
+      "cookingTime": 45,
+      "category": "66dacde8d12b55222bb52ff6",
+      "chef": "66d9374166396d73e500f7e3",
+      "chefName": "أحمد عيسى",
+      "photos": [
+        "https://example.com/chicken-tikka-masala.jpg"
+      ],
+      "dietaryRestrictions": ["Gluten-Free"],
+      "cuisineType": "Indian",
+      "nutrition": {
+        "calories": "600 kcal",
+        "protein": "30g",
+        "totalFats": "40g",
+        "carbs": "50g"
+      },
+      "videoTutorialUrl": "https://www.youtube.com/watch?v=example-tikka-video",
+      "isDeleted": false,
+      "servings": 4,
+      "isApproved": true
+    },
+    {
+      "title": "Seafood Salad",
+      "description": "A light and fresh seafood salad made with shrimp, crab, and other fresh seafood ingredients.",
+      "ingredients": [
+        { "name": "Shrimp", "quantity": "200", "unit": "grams" },
+        { "name": "Crab Meat", "quantity": "150", "unit": "grams" },
+        { "name": "Lettuce", "quantity": "1", "unit": "head" },
+        { "name": "Olive Oil", "quantity": "3", "unit": "tbsp" }
+      ],
+      "instructions": [
+        {
+          "stepText": "Boil the shrimp and crab meat until fully cooked.",
+          "stepImage": "https://example.com/seafood-salad-step1.jpg"
+        },
+        {
+          "stepText": "Chop lettuce and mix with seafood.",
+          "stepImage": "https://example.com/seafood-salad-step2.jpg"
+        },
+        {
+          "stepText": "Drizzle with olive oil and serve.",
+          "stepImage": "https://example.com/seafood-salad-step3.jpg"
+        }
+      ],
+      "cookingTime": 20,
+      "category": "66dacde8d12b55222bb52ff6",
+      "chef": "66d859aeff27549b02eb0978",
+      "chefName": "test",
+      "photos": [
+        "https://example.com/seafood-salad.jpg"
+      ],
+      "dietaryRestrictions": ["Low-Carb"],
+      "cuisineType": "Mediterranean",
+      "nutrition": {
+        "calories": "300 kcal",
+        "protein": "25g",
+        "totalFats": "10g",
+        "carbs": "15g"
+      },
+      "videoTutorialUrl": "https://www.youtube.com/watch?v=example-seafood-salad-video",
+      "isDeleted": false,
+      "servings": 2,
+      "isApproved": true
+    },
+    {
+      "title": "Pasta Salad",
+      "description": "A hearty and delicious pasta salad with fresh vegetables and a zesty dressing.",
+      "ingredients": [
+        { "name": "Pasta", "quantity": "200", "unit": "grams" },
+        { "name": "Tomatoes", "quantity": "2", "unit": "pieces" },
+        { "name": "Cucumbers", "quantity": "1", "unit": "piece" },
+        { "name": "Feta Cheese", "quantity": "100", "unit": "grams" }
+      ],
+      "instructions": [
+        {
+          "stepText": "Cook the pasta until al dente.",
+          "stepImage": "https://example.com/pasta-salad-step1.jpg"
+        },
+        {
+          "stepText": "Chop the vegetables and mix with pasta.",
+          "stepImage": "https://example.com/pasta-salad-step2.jpg"
+        },
+        {
+          "stepText": "Add feta cheese and drizzle with dressing.",
+          "stepImage": "https://example.com/pasta-salad-step3.jpg"
+        }
+      ],
+      "cookingTime": 30,
+      "category": "66dacde8d12b55222bb52ff7",
+      "chef": "66d9389e66396d73e500f7e9",
+      "chefName": "rami",
+      "photos": [
+        "https://example.com/pasta-salad.jpg"
+      ],
+      "dietaryRestrictions": ["Vegetarian"],
+      "cuisineType": "Italian",
+      "nutrition": {
+        "calories": "450 kcal",
+        "protein": "15g",
+        "totalFats": "20g",
+        "carbs": "60g"
+      },
+      "videoTutorialUrl": "https://www.youtube.com/watch?v=example-pasta-salad-video",
+      "isDeleted": false,
+      "servings": 4,
+      "isApproved": true
+    },
+    {
+      "title": "Fruit Salad",
+      "description": "A refreshing mix of seasonal fruits, perfect for summer.",
+      "ingredients": [
+        { "name": "Strawberries", "quantity": "200", "unit": "grams" },
+        { "name": "Blueberries", "quantity": "100", "unit": "grams" },
+        { "name": "Banana", "quantity": "1", "unit": "piece" },
+        { "name": "Apple", "quantity": "1", "unit": "piece" }
+      ],
+      "instructions": [
+        {
+          "stepText": "Chop all the fruits and mix in a bowl.",
+          "stepImage": "https://example.com/fruit-salad-step1.jpg"
+        },
+        {
+          "stepText": "Drizzle with lemon juice and serve.",
+          "stepImage": "https://example.com/fruit-salad-step2.jpg"
+        }
+      ],
+      "cookingTime": 15,
+      "category": "66dacde8d12b55222bb52ff8",
+      "chef": "66d9374166396d73e500f7e3",
+      "chefName": "أحمد عيسى",
+      "photos": [
+        "https://example.com/fruit-salad.jpg"
+      ],
+      "dietaryRestrictions": ["Vegan"],
+      "cuisineType": "American",
+      "nutrition": {
+        "calories": "200 kcal",
+        "protein": "2g",
+        "totalFats": "0g",
+        "carbs": "50g"
+      },
+      "videoTutorialUrl": "https://www.youtube.com/watch?v=example-fruit-salad-video",
+      "isDeleted": false,
+      "servings": 4,
+      "isApproved": true
+    }
+]

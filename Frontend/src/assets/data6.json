@@ -1,0 +1,252 @@
+[
+    {
+      "title": "Seafood Salad",
+      "description": "A salad with various seafood ingredients.",
+      "ingredients": [
+        { "name": "Shrimp", "quantity": "200", "unit": "grams" },
+        { "name": "Crab Meat", "quantity": "100", "unit": "grams" },
+        { "name": "Lettuce", "quantity": "100", "unit": "grams" },
+        { "name": "Lemon Dressing", "quantity": "50", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Combine all seafood with lettuce and dress with lemon dressing.", "stepImage": "https://example.com/images/seafood_salad_step1.jpg" }
+      ],
+      "cookingTime": 15,
+      "category": "66dacde8d12b55222bb52ff6",
+      "chef": "64dacc6d12b55222bb52ff5a",
+      "photos": ["https://example.com/images/seafood_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/seafood_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["Gluten-Free"],
+      "cuisineType": "Mediterranean"
+    },
+    {
+      "title": "Pasta Salad",
+      "description": "A salad that typically contains pasta as the main ingredient.",
+      "ingredients": [
+        { "name": "Pasta", "quantity": "200", "unit": "grams" },
+        { "name": "Cherry Tomatoes", "quantity": "100", "unit": "grams" },
+        { "name": "Mozzarella", "quantity": "100", "unit": "grams" },
+        { "name": "Italian Dressing", "quantity": "50", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Cook pasta and mix with tomatoes, mozzarella, and dressing.", "stepImage": "https://example.com/images/pasta_salad_step1.jpg" }
+      ],
+      "cookingTime": 20,
+      "category": "66dacde8d12b55222bb52ff7",
+      "chef": "64dacc6d12b55222bb52ff5b",
+      "photos": ["https://example.com/images/pasta_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/pasta_salad.mp4",
+      "servings": 6,
+      "dietaryRestrictions": ["Vegetarian"],
+      "cuisineType": "Italian"
+    },
+    {
+      "title": "Fruit Salad",
+      "description": "A salad made primarily of various fresh fruits.",
+      "ingredients": [
+        { "name": "Apple", "quantity": "1", "unit": "piece" },
+        { "name": "Banana", "quantity": "1", "unit": "piece" },
+        { "name": "Grapes", "quantity": "100", "unit": "grams" },
+        { "name": "Orange Juice", "quantity": "50", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Chop fruits and mix with orange juice.", "stepImage": "https://example.com/images/fruit_salad_step1.jpg" }
+      ],
+      "cookingTime": 10,
+      "category": "66dacde8d12b55222bb52ff8",
+      "chef": "64dacc6d12b55222bb52ff5c",
+      "photos": ["https://example.com/images/fruit_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/fruit_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["Vegan"],
+      "cuisineType": "American"
+    },
+    {
+      "title": "Sweet Salad",
+      "description": "A salad that is sweet in flavor, often including fruits or dessert-like ingredients.",
+      "ingredients": [
+        { "name": "Pineapple", "quantity": "200", "unit": "grams" },
+        { "name": "Mango", "quantity": "100", "unit": "grams" },
+        { "name": "Honey", "quantity": "30", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Mix pineapple and mango with honey.", "stepImage": "https://example.com/images/sweet_salad_step1.jpg" }
+      ],
+      "cookingTime": 10,
+      "category": "66dacde8d12b55222bb52ff9",
+      "chef": "64dacc6d12b55222bb52ff5d",
+      "photos": ["https://example.com/images/sweet_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/sweet_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["Gluten-Free"],
+      "cuisineType": "Fusion"
+    },
+    {
+      "title": "Chicken Salad",
+      "description": "A salad with chicken as the main protein.",
+      "ingredients": [
+        { "name": "Chicken Breast", "quantity": "200", "unit": "grams" },
+        { "name": "Lettuce", "quantity": "100", "unit": "grams" },
+        { "name": "Caesar Dressing", "quantity": "50", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Cook chicken and mix with lettuce and Caesar dressing.", "stepImage": "https://example.com/images/chicken_salad_step1.jpg" }
+      ],
+      "cookingTime": 25,
+      "category": "66dacde8d12b55222bb52ffa",
+      "chef": "64dacc6d12b55222bb52ff5e",
+      "photos": ["https://example.com/images/chicken_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/chicken_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["High-Protein"],
+      "cuisineType": "American"
+    },
+    {
+      "title": "Salad Dressing",
+      "description": "A variety of sauces or dressings used to enhance the flavor of salads.",
+      "ingredients": [
+        { "name": "Vinaigrette", "quantity": "100", "unit": "ml" },
+        { "name": "Ranch Dressing", "quantity": "100", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Combine vinaigrette and ranch dressing.", "stepImage": "https://example.com/images/salad_dressing_step1.jpg" }
+      ],
+      "cookingTime": 5,
+      "category": "66dacde8d12b55222bb52ffb",
+      "chef": "64dacc6d12b55222bb52ff5f",
+      "photos": ["https://example.com/images/salad_dressing.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/salad_dressing.mp4",
+      "servings": 10,
+      "dietaryRestrictions": ["Gluten-Free"],
+      "cuisineType": "Global"
+    },
+    {
+      "title": "Greek Salad",
+      "description": "A traditional Greek salad with fresh vegetables and feta cheese.",
+      "ingredients": [
+        { "name": "Cucumber", "quantity": "1", "unit": "piece" },
+        { "name": "Tomato", "quantity": "2", "unit": "pieces" },
+        { "name": "Feta Cheese", "quantity": "100", "unit": "grams" },
+        { "name": "Olives", "quantity": "50", "unit": "grams" },
+        { "name": "Olive Oil", "quantity": "50", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Chop vegetables, mix with feta cheese and olives, and dress with olive oil.", "stepImage": "https://example.com/images/greek_salad_step1.jpg" }
+      ],
+      "cookingTime": 10,
+      "category": "66dacde8d12b55222bb52ff6",
+      "chef": "64dacc6d12b55222bb52ff60",
+      "photos": ["https://example.com/images/greek_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/greek_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["Vegetarian"],
+      "cuisineType": "Greek"
+    },
+    {
+      "title": "Quinoa Salad",
+      "description": "A nutritious salad with quinoa and a variety of vegetables.",
+      "ingredients": [
+        { "name": "Quinoa", "quantity": "200", "unit": "grams" },
+        { "name": "Bell Peppers", "quantity": "2", "unit": "pieces" },
+        { "name": "Cucumber", "quantity": "1", "unit": "piece" },
+        { "name": "Lemon Juice", "quantity": "30", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Cook quinoa, chop vegetables, and mix with lemon juice.", "stepImage": "https://example.com/images/quinoa_salad_step1.jpg" }
+      ],
+      "cookingTime": 25,
+      "category": "66dacde8d12b55222bb52ff8",
+      "chef": "64dacc6d12b55222bb52ff61",
+      "photos": ["https://example.com/images/quinoa_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/quinoa_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["Gluten-Free", "Vegan"],
+      "cuisineType": "Mediterranean"
+    },
+    {
+      "title": "Caprese Salad",
+      "description": "A classic Italian salad with tomatoes, mozzarella, and basil.",
+      "ingredients": [
+        { "name": "Tomatoes", "quantity": "3", "unit": "pieces" },
+        { "name": "Mozzarella", "quantity": "200", "unit": "grams" },
+        { "name": "Fresh Basil", "quantity": "10", "unit": "leaves" },
+        { "name": "Balsamic Vinegar", "quantity": "30", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Slice tomatoes and mozzarella, arrange with basil leaves, and drizzle with balsamic vinegar.", "stepImage": "https://example.com/images/caprese_salad_step1.jpg" }
+      ],
+      "cookingTime": 10,
+      "category": "66dacde8d12b55222bb52ff7",
+      "chef": "64dacc6d12b55222bb52ff62",
+      "photos": ["https://example.com/images/caprese_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/caprese_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["Vegetarian"],
+      "cuisineType": "Italian"
+    },
+    {
+      "title": "Caesar Salad",
+      "description": "A classic Caesar salad with romaine lettuce, croutons, and Caesar dressing.",
+      "ingredients": [
+        { "name": "Romaine Lettuce", "quantity": "200", "unit": "grams" },
+        { "name": "Croutons", "quantity": "50", "unit": "grams" },
+        { "name": "Caesar Dressing", "quantity": "50", "unit": "ml" },
+        { "name": "Parmesan Cheese", "quantity": "30", "unit": "grams" }
+      ],
+      "instructions": [
+        { "stepText": "Combine lettuce with croutons and Parmesan cheese, and dress with Caesar dressing.", "stepImage": "https://example.com/images/caesar_salad_step1.jpg" }
+      ],
+      "cookingTime": 10,
+      "category": "66dacde8d12b55222bb52ff9",
+      "chef": "64dacc6d12b55222bb52ff63",
+      "photos": ["https://example.com/images/caesar_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/caesar_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["Vegetarian"],
+      "cuisineType": "American"
+    },
+    {
+      "title": "Waldorf Salad",
+      "description": "A salad with apples, celery, walnuts, and mayonnaise.",
+      "ingredients": [
+        { "name": "Apples", "quantity": "2", "unit": "pieces" },
+        { "name": "Celery", "quantity": "2", "unit": "sticks" },
+        { "name": "Walnuts", "quantity": "50", "unit": "grams" },
+        { "name": "Mayonnaise", "quantity": "50", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Chop apples and celery, mix with walnuts and mayonnaise.", "stepImage": "https://example.com/images/waldorf_salad_step1.jpg" }
+      ],
+      "cookingTime": 15,
+      "category": "66dacde8d12b55222bb52ff6",
+      "chef": "64dacc6d12b55222bb52ff64",
+      "photos": ["https://example.com/images/waldorf_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/waldorf_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["Gluten-Free"],
+      "cuisineType": "American"
+    },
+    {
+      "title": "Cobb Salad",
+      "description": "A hearty salad with chopped ingredients including chicken, bacon, and eggs.",
+      "ingredients": [
+        { "name": "Chicken Breast", "quantity": "200", "unit": "grams" },
+        { "name": "Bacon", "quantity": "100", "unit": "grams" },
+        { "name": "Boiled Eggs", "quantity": "2", "unit": "pieces" },
+        { "name": "Avocado", "quantity": "1", "unit": "piece" }
+      ],
+      "instructions": [
+        { "stepText": "Chop chicken, bacon, and eggs, and mix with avocado.", "stepImage": "https://example.com/images/cobb_salad_step1.jpg" }
+      ],
+      "cookingTime": 30,
+      "category": "66dacde8d12b55222bb52ff7",
+      "chef": "64dacc6d12b55222bb52ff65",
+      "photos": ["https://example.com/images/cobb_salad.jpg"],
+      "videoTutorialUrl": "https://example.com/videos/cobb_salad.mp4",
+      "servings": 4,
+      "dietaryRestrictions": ["High-Protein"],
+      "cuisineType": "American"
+    }
+  ]
+  

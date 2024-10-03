@@ -1,0 +1,170 @@
+[
+    {
+      "title": "Chicken Tikka Masala",
+      "description": "A flavorful Indian dish made with marinated grilled chicken in a creamy tomato sauce.",
+      "ingredients": [
+        { "name": "Chicken Breast", "quantity": "500", "unit": "grams" },
+        { "name": "Yogurt", "quantity": "200", "unit": "ml" },
+        { "name": "Tomato Sauce", "quantity": "200", "unit": "ml" },
+        { "name": "Onions", "quantity": "2", "unit": "pieces" },
+        { "name": "Garlic", "quantity": "3", "unit": "cloves" },
+        { "name": "Ginger", "quantity": "1", "unit": "inch piece" },
+        { "name": "Spices (Cumin, Coriander, etc.)", "quantity": "2", "unit": "tablespoons" },
+        { "name": "Cream", "quantity": "100", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Marinate chicken in yogurt and spices.", "stepImage": "https://example.com/images/chicken_tikka_step1.jpg" },
+        { "stepText": "Grill chicken until cooked.", "stepImage": "https://example.com/images/chicken_tikka_step2.jpg" },
+        { "stepText": "Prepare the sauce with onions, garlic, and ginger.", "stepImage": "https://example.com/images/chicken_tikka_step3.jpg" },
+        { "stepText": "Add tomato sauce and cream to the sauce.", "stepImage": "https://example.com/images/chicken_tikka_step4.jpg" },
+        { "stepText": "Combine grilled chicken with the sauce.", "stepImage": "https://example.com/images/chicken_tikka_step5.jpg" }
+      ],
+      "cookingTime": 45,
+      "category": "66dacde8d12b55222bb52ff6",
+      "chef": "66d859aeff27549b02eb0978",
+      "photos": ["https://example.com/images/chicken_tikka_masala.jpg"],
+      "dietaryRestrictions": ["Gluten-Free"],
+      "cuisineType": "Indian",
+      "nutrition": {
+        "calories": "450 kcal",
+        "protein": "30g",
+        "totalFats": "25g",
+        "carbs": "20g"
+      },
+      "videoTutorialUrl": "https://www.allrecipes.com/recipe/14276/strawberry-spinach-salad-i/",
+      "isDeleted": false,
+      "servings": 4,
+      "isApproved": false
+    },
+    {
+      "title": "Greek Salad",
+      "description": "A fresh salad with cucumbers, tomatoes, olives, and feta cheese.",
+      "ingredients": [
+        { "name": "Cucumbers", "quantity": "1", "unit": "piece" },
+        { "name": "Tomatoes", "quantity": "2", "unit": "pieces" },
+        { "name": "Olives", "quantity": "50", "unit": "grams" },
+        { "name": "Feta Cheese", "quantity": "100", "unit": "grams" },
+        { "name": "Red Onion", "quantity": "0.5", "unit": "piece" },
+        { "name": "Olive Oil", "quantity": "30", "unit": "ml" },
+        { "name": "Lemon Juice", "quantity": "20", "unit": "ml" },
+        { "name": "Oregano", "quantity": "1", "unit": "teaspoon" }
+      ],
+      "instructions": [
+        { "stepText": "Chop cucumbers and tomatoes.", "stepImage": "https://example.com/images/greek_salad_step1.jpg" },
+        { "stepText": "Add olives and feta cheese.", "stepImage": "https://example.com/images/greek_salad_step2.jpg" },
+        { "stepText": "Mix with red onion slices.", "stepImage": "https://example.com/images/greek_salad_step3.jpg" },
+        { "stepText": "Dress with olive oil and lemon juice.", "stepImage": "https://example.com/images/greek_salad_step4.jpg" },
+        { "stepText": "Sprinkle with oregano and serve.", "stepImage": "https://example.com/images/greek_salad_step5.jpg" }
+      ],
+      "cookingTime": 15,
+      "category": "66dacde8d12b55222bb52ff8",
+      "chef": "66d9356d66396d73e500f7dc",
+      "photos": ["https://example.com/images/greek_salad.jpg"],
+      "dietaryRestrictions": ["Vegetarian"],
+      "cuisineType": "Mediterranean",
+      "nutrition": {
+        "calories": "200 kcal",
+        "protein": "8g",
+        "totalFats": "15g",
+        "carbs": "12g"
+      },
+      "videoTutorialUrl": "https://www.example.com/videos/greek_salad.mp4",
+      "isDeleted": false,
+      "servings": 4,
+      "isApproved": true
+    },
+    {
+      "title": "Caesar Salad",
+      "description": "A classic Caesar salad with romaine lettuce, croutons, and Caesar dressing.",
+      "ingredients": [
+        { "name": "Romaine Lettuce", "quantity": "200", "unit": "grams" },
+        { "name": "Croutons", "quantity": "50", "unit": "grams" },
+        { "name": "Caesar Dressing", "quantity": "50", "unit": "ml" },
+        { "name": "Parmesan Cheese", "quantity": "30", "unit": "grams" }
+      ],
+      "instructions": [
+        { "stepText": "Combine lettuce with croutons and Parmesan cheese.", "stepImage": "https://example.com/images/caesar_salad_step1.jpg" },
+        { "stepText": "Dress with Caesar dressing.", "stepImage": "https://example.com/images/caesar_salad_step2.jpg" }
+      ],
+      "cookingTime": 10,
+      "category": "66dacde8d12b55222bb52ff7",
+      "chef": "66d9374166396d73e500f7e3",
+      "photos": ["https://example.com/images/caesar_salad.jpg"],
+      "dietaryRestrictions": ["Vegetarian"],
+      "cuisineType": "American",
+      "nutrition": {
+        "calories": "300 kcal",
+        "protein": "10g",
+        "totalFats": "20g",
+        "carbs": "15g"
+      },
+      "videoTutorialUrl": "https://www.example.com/videos/caesar_salad.mp4",
+      "isDeleted": false,
+      "servings": 4,
+      "isApproved": true
+    },
+    {
+      "title": "Fruit Salad",
+      "description": "A refreshing mix of various seasonal fruits.",
+      "ingredients": [
+        { "name": "Apples", "quantity": "2", "unit": "pieces" },
+        { "name": "Bananas", "quantity": "2", "unit": "pieces" },
+        { "name": "Oranges", "quantity": "2", "unit": "pieces" },
+        { "name": "Grapes", "quantity": "100", "unit": "grams" },
+        { "name": "Lemon Juice", "quantity": "20", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Chop and combine all fruits.", "stepImage": "https://example.com/images/fruit_salad_step1.jpg" },
+        { "stepText": "Add lemon juice to prevent browning.", "stepImage": "https://example.com/images/fruit_salad_step2.jpg" }
+      ],
+      "cookingTime": 10,
+      "category": "66dacde8d12b55222bb52ff8",
+      "chef": "66d9389e66396d73e500f7e9",
+      "photos": ["https://example.com/images/fruit_salad.jpg"],
+      "dietaryRestrictions": ["Vegan"],
+      "cuisineType": "Mixed",
+      "nutrition": {
+        "calories": "150 kcal",
+        "protein": "1g",
+        "totalFats": "0g",
+        "carbs": "38g"
+      },
+      "videoTutorialUrl": "https://www.example.com/videos/fruit_salad.mp4",
+      "isDeleted": false,
+      "servings": 4,
+      "isApproved": true
+    },
+    {
+      "title": "Pasta Salad",
+      "description": "A colorful pasta salad with vegetables and a tangy vinaigrette.",
+      "ingredients": [
+        { "name": "Pasta", "quantity": "200", "unit": "grams" },
+        { "name": "Bell Peppers", "quantity": "2", "unit": "pieces" },
+        { "name": "Cherry Tomatoes", "quantity": "100", "unit": "grams" },
+        { "name": "Olives", "quantity": "50", "unit": "grams" },
+        { "name": "Vinaigrette", "quantity": "50", "unit": "ml" }
+      ],
+      "instructions": [
+        { "stepText": "Cook pasta and let it cool.", "stepImage": "https://example.com/images/pasta_salad_step1.jpg" },
+        { "stepText": "Chop vegetables and mix with pasta.", "stepImage": "https://example.com/images/pasta_salad_step2.jpg" },
+        { "stepText": "Add vinaigrette and toss.", "stepImage": "https://example.com/images/pasta_salad_step3.jpg" }
+      ],
+      "cookingTime": 20,
+      "category": "66dacde8d12b55222bb52ff9",
+      "chef": "66d9392b66396d73e500f7ec",
+      "photos": ["https://example.com/images/pasta_salad.jpg"],
+      "dietaryRestrictions": ["Vegetarian"],
+      "cuisineType": "Italian",
+      "nutrition": {
+        "calories": "300 kcal",
+        "protein": "8g",
+        "totalFats": "15g",
+        "carbs": "35g"
+      },
+      "videoTutorialUrl": "https://www.example.com/videos/pasta_salad.mp4",
+      "isDeleted": false,
+      "servings": 4,
+      "isApproved": true
+    }
+  ]
+  
